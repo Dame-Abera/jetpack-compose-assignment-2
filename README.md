@@ -25,5 +25,5 @@ A modern Android application that fetches TODO items from the JSONPlaceholder AP
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/jetpack-compose-assignment-2.git
+   git clone https://github.com/Dame-Abera/jetpack-compose-assignment-2.git
    cd jetpack-compose-assignment-2
